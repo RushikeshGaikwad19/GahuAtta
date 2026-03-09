@@ -69,7 +69,7 @@ export const products = [
     price: 55,
     originalPrice: 70,
     weight: "1 kg",
-    image: "https://www.bing.com/images/search?view=detailV2&ccid=Eb2cqtFu&id=9E737FB5EF8DD5B32B6350E82DAD6A2176FA3D39&thid=OIP.Eb2cqtFuFiQ4ue8vlfus0wHaFj&mediaurl=https%3a%2f%2fi.timesnowhindi.com%2fstories%2fbajara.jpg&exph=900&expw=1200&q=bajara+photo&mode=overlay&FORM=IQFRBA&ck=3D6676AA629FE0BD1D3E99FC4D7C1FA5&selectedIndex=0&idpp=serp",
+    image: "https://png.pngtree.com/thumb_back/fw800/background/20220118/pngtree-pearl-millet-bajra-as-background-close-up-india-bajra-snack-photo-image_28882706.jpg",
     rating: 4.7,
     reviews: 67,
     description: "Pure bajra flour, perfect for winter rotis. Rich in iron and fiber. Traditional taste, modern nutrition.",
