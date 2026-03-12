@@ -72,7 +72,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400 text-sm">
-          <p>&copy; 2026 GahuAtta. All rights reserved.</p>
+          <p>&copy; 2026 AttaCart. All rights reserved.</p>
         </div>
       </div>
     </footer>
