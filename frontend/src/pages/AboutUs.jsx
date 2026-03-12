@@ -40,7 +40,7 @@ const AboutUs = () => {
           <div>
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Why We Started</h2>
             <p className="text-gray-600 mb-6 leading-relaxed">
-              GahuAtta was born from a simple belief: everyone deserves access to fresh, 
+              AttaCart was born from a simple belief: everyone deserves access to fresh, 
               pure flour just like our grandparents used to make. In 2009, we started 
               with one traditional chakki and a dream to bring authentic taste to modern kitchens.
             </p>
